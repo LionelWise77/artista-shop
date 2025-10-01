@@ -1,4 +1,5 @@
-import os, stripe
+import os
+import stripe
 from django.conf import settings
 from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse, HttpResponse

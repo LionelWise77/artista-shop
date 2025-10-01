@@ -6,3 +6,4 @@ python-dotenv
 djangorestframework-simplejwt
 stripe
 cloudinary
+stripe==6.*
