@@ -1,0 +1,35 @@
+# 🎨 Artista Shop - Art Gallery E-commerce
+
+> Full-stack e-commerce platform for artists to sell original artworks online
+
+![Demo Screenshot](screenshot.png)
+
+## 🚀 Features
+
+- Browse artwork gallery with filters
+- Secure checkout with Stripe
+- User authentication (JWT)
+- Order management
+- Responsive design
+
+## 🛠️ Tech Stack
+
+**Backend:** Django 4.x, Django REST Framework, PostgreSQL  
+**Frontend:** React 18, Redux Toolkit, TailwindCSS  
+**Payment:** Stripe API  
+**Deploy:** Railway (backend), Vercel (frontend)
+
+## 📦 Installation
+
+[Instrucciones claras de setup local]
+
+## 🎯 Roadmap
+
+- [ ] Admin dashboard
+- [ ] Artist portfolio pages
+- [ ] Print on demand integration
+- [ ] Multi-language support
+
+## 👨‍💻 Author
+
+[Tu nombre] - [LinkedIn] - [Portfolio]
